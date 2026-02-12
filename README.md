@@ -1,7 +1,7 @@
 # -OIBSIP_domain_taskno1
 This is my work as the data science intern 
 
-# 🌸 Iris Flower Classification using Machine Learning
+#  Iris Flower Classification using Machine Learning
 
 ## Project Overview
 
@@ -76,7 +76,7 @@ The model performed very well on the dataset and correctly classified the flower
 
 ---
 
-## 🌼 Sample Prediction
+##  Sample Prediction
 
 Example input:
 Sepal Length = 5.1  
