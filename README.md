@@ -1,5 +1,5 @@
 # -OIBSIP_domain_taskno1
-This is my work as the data science intern 
+This is my work as a data science intern 
 
 #  Iris Flower Classification using Machine Learning
 
